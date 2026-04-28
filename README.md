@@ -4,11 +4,7 @@
 
 Official PyTorch implementation of **LiST-UNet**, a lightweight hybrid CNN-ViT network for 3D Magnetic Resonance Fingerprinting (MRF) parameter map reconstruction. LiST-UNet reconstructs quantitative T1/T2 parameter maps from undersampled MRF acquisitions using a U-Net-style encoder-decoder architecture equipped with a novel Spatio-Temporal (ST) attention mechanism.
 
-**Key features:**
-- Lightweight CNN-ViT hybrid block combining local depthwise convolutions and global spatiotemporal attention
-- 3D volumetric processing preserving full spatial context across all slice directions
-- Balanced acceleration strategy enabling fast, high-fidelity MRF reconstruction
-- Encoder-decoder design with multi-scale skip connections for detail recovery
+
 
 ---
 
