@@ -198,20 +198,6 @@ After each epoch, the following files are saved:
 
 ---
 
-## Citation
-
-If you find this work useful, please cite our paper:
-
-```bibtex
-@article{LiST-UNet2024,
-  title   = {A Spatiotemporal Dependency-Aware Lightweight CNN-ViT Network for 3D MRF with a Balanced Acceleration Strategy},
-  journal = {},
-  year    = {2024}
-}
-```
-
----
-
 ## License
 
 This project is for research purposes only.
